@@ -1,6 +1,7 @@
 import csv
 
-
+"""Organizing data through csv file, to take out important information."""
+# File contains medical history about patients.
 filename = "C:/Users/jiten/Desktop/python_work/codeacademyProjects/insurance.csv"
 
 age = []
